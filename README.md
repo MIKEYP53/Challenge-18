@@ -10,7 +10,8 @@
 ## Description
 this app is a a mongodb that gives request between friends, allowing them to make acounts share thoughts and react to those thoughts.
 
-![App Image](./Screenshot 2025-03-27 085039.png)
+![App Image](./Request.png.png)
+https://app.screencastify.com/v3/watch/uQBKXTxLuibnM7Q1z9pD
 
 ## Installation
 by entering into the terminal of the parent folder and typing npm i and node index.js
