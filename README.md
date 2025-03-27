@@ -1,4 +1,4 @@
-# The Tech Bubble
+# Social Request Collection
 
 
 ## Table of Contents
@@ -8,14 +8,15 @@
 - [Questions](#questions)
 
 ## Description
-this app is a brand new tech bubble blog where you can talk about your most recent innovations. once you login you will be able to make bubbles, edit them, and comment on other peoples bubbles.
+this app is a a mongodb that gives request between friends, allowing them to make acounts share thoughts and react to those thoughts.
 
 
 ## Installation
-by entering into the terminal of the parent folder and typing npm i and npm start
+by entering into the terminal of the parent folder and typing npm i and node index.js
 
 ## Usage
-after running the app login to your account or sign up to make an acount. you will be put into your profile page where you can make bubbles, edit your bubbles, or delete bubbles. in the home page youll see all bubbles that are made, here when you click on a bubble you can add comments to them.
+through the use of insomnia we can use the request features to get post change or delete the data of users, reactions, thoughts, and friend lists, simply write the right route to get the said affect.
+
 
 ## Questions
 For any questions, you can reach me at:
